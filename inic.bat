@@ -1,0 +1,1 @@
+start pythonw C:\Python27\Lib\PythonUpdate.pyw
